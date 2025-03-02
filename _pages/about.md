@@ -23,8 +23,8 @@ Starting in September 2025, he will pursue a M.Phil degree in Artificial Intelli
 Haoqin Hong's research will focus on physics-inspired vision understanding and embodied intelligent world models. He is currently a Kaggle Expert, and he previously served as a paper reviewer for international conferences such as IJCAI and IJCNN. He is familiar with development tools and platforms like PyTorch, MATLAB/Simulink, ROS and Blender. He also has a good understanding of the basic architecture and cutting-edge research trends in algorithms such as Transformer, Diffusion, LoRA, NeRF, and 3DGS.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoqinhong&layout=compact&hide=html,scss,css,shell,makefile" width="30%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoqinhong&layout=compact&hide=html,scss,css,shell,makefile" width="40%" />
 </div>
 
 
