@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Haoqin Hong's Academic Homepage"
-description              : "This is Haoqin Hong's academic homepage. "
-repository               : "HaoqinHong/haoqinhong.github.io/haoqinhong-ustc.github.io"
+description              : "Physics-Inspired Vision Understanding, Mixed Reality and Embodied Intelligence. "
+repository               : "HaoqinHong/haoqinhong-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "HaoqinHong"
   avatar           : "images/avatar.jpg"
-  bio              : "M.Phil in AI @ USTC // B.Eng in CS @ SWU"
+  bio              : "M.Phil in AI @ USTC, B.Eng in CS @ SWU"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
