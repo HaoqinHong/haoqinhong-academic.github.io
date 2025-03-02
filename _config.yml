@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoqin Hong's Academic Homepage"
-description              : "Physics-Inspired Vision Understanding, Mixed Reality and Embodied Intelligence. "
+description              : "🦄 My research interests are Physics-Inspired Vision, 3D Large Reconstruction Model, Mixed-Reality and Embodied Intelligence. "
 repository               : "HaoqinHong/haoqinhong-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "HaoqinHong"
   avatar           : "images/avatar.jpg"
-  bio              : "M.Phil in AI @ USTC, B.Eng in CS @ SWU"
+  bio              : "M.Phil in Intelligent Science and Technology@USTC & B.Eng in Computer Science and Technology@SWU"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
