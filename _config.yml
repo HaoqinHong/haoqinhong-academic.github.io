@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Haoqin Hong's Academic Homepage"
 description              : "This is Haoqin Hong's academic homepage. "
-repository               : "HaoqinHong/haoqinhong-ustc.github.io"
+repository               : "HaoqinHong/haoqinhong.github.io/haoqinhong-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "HaoqinHong"
   avatar           : "images/avatar.jpg"
-  bio              : "B.Eng in CS @ SWU, M.Phil in AI @ USTC"
+  bio              : "M.Phil in AI @ USTC // B.Eng in CS @ SWU"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "HaoqinHong"
   google_plus      :
   keybase          :
   instagram        :
