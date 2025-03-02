@@ -29,8 +29,10 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.9*: &nbsp; 🎉 I have been admitted to the USTC to pursue a M.Phil in Intelligent Science and Technology.
+- *2024.7*: &nbsp; 🎉 I present at the World Congress on Computational Intelligence held in Yokohama, Japan. 
+- *2024.3*: &nbsp; 🎉 My paper was accepted by IEEE IJCNN 2024.
+- *2023.6*: &nbsp; 🎉 I have been admitted to the China Academy of Sciences College Student Innovation Practice Training Program, and my advisor is [Prof. Luo Ali](https://www.researchgate.net/profile/A-Li-Luo), a researcher at the National Astronomical Observatory.
 
 # 📝 Publications 
 
