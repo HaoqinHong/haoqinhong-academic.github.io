@@ -51,8 +51,26 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+## Selected Honors
+
+- Outstanding Individual in Enhancing Innovation Ability of College Students in Chongqing.
+- Southwest University First Class Scholarship, Second Class Scholarship, Third Class Scholarship.
+- Special First Class Scholarship for Overseas Study or Internship of Han Hong College.
+- Southwest University Innovation and Entrepreneurship Award.
+- Southwest University Academic Science and Technology Award.
+
+## Selected Awards
+
+- 🥉 Bronze Medal in Kaggle Research Competition: Google - Fast or Slow? Predict AI Model Runtime.  
+- 🏅 National First Prize in the DJI RoboMaster of the National University Student Robot Competition. 
+- 🏅 National First Prize in the China Robotics and Artificial Intelligence Competition. 
+- 🥈 National Second Prize in the China/Contemporary Undergraduate Mathematical Contest in Modeling. 
+- 🥉 National Third Prize in the “Challenge Cup” Specialized Competition - Huawei Track. 
+- 🥉 National Third Prize in the Chinese Collegiate Computing Contest. 
+- 🏅 Provincial First Prize in the National Undergraduate Electronics Design Contest. 
+
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
