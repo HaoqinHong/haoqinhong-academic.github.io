@@ -64,7 +64,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 	<li> Speech Recognition System and Method Based on Lightweight Transformer Network.</li> 
 	<li> Text Sentiment Detection System and Method Based on Memristor.</li>
 
-</li>
+</ul>
 
 # 🎖 Honors and Awards
 
