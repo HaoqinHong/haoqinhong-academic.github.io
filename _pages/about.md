@@ -33,7 +33,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 - *2025.09 - 2028.06 (now)*, University of Science and Technology of China (USTC), School of Artificial Intelligence and Data Science, Academic Master in Intelligence Science and Technology. 
 - *2021.09 - 2025.06*, Southwest University (SWU), Yuan-Longping Class, Hanhong Honors College, Bachelor of Engineering in Computer Science and Technology. 
 - *2022.09 - 2023.01*, University of California, Los Angeles (UCLA), Visiting Student in Data Science.
-- *2015.09 - 2021.07", Chengdu Experimental Foreign Languages School, Science Experimental Class, Senior High School & Junior High School.
+- *2015.09 - 2021.07*, Chengdu Experimental Foreign Languages School, Science Experimental Class, Senior High School & Junior High School.
 
 
 # 🔥 News
