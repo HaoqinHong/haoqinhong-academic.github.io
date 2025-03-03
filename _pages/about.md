@@ -25,14 +25,13 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 - 📃 [CV(English)](https://drive.google.com/file/d/1mJL66bRKc_6MZzFId965O98CnxmAtN5K/view?usp=drive_link)  &nbsp;  · 📃 [CV(Chinese)](https://drive.google.com/file/d/1tZMI8F3hEnk44SNqpweE21aVn0PKoWs6/view?usp=drive_link)
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="58%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="57%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoqinhong&layout=compact&hide=html,scss,css,shell,makefile" width="35%" />
 </div>
 
 # 📖 Educations
 - *2025.09 - 2028.06 (now)*, University of Science and Technology of China (USTC), Academic Master in Intelligence Science and Technology, School of Artificial Intelligence and Data Science. 
 - *2021.09 - 2025.06*, Southwest University (SWU), Bachelor of Engineering in Computer Science and Technology, Yuan-Longping Class, Hanhong Honors College. 
-
 
 
 # 🔥 News
