@@ -84,7 +84,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 
 🚩 [**Project**](https://github.com/HaoqinHong/CCSPNet-Joint) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 📜 [**Dataset**](https://www.kaggle.com/datasets/haoqinhong/cctsdb-aug-ijcnn-2024) &nbsp; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Authors: &nbsp;&nbsp;**Haoqin Hong @SWU**, Yue Zhou* @SWU, Xiangyu Shu @SWU, Xiaofang Hu @SWU.
-- Keywords:&nbsp;&nbsp; Object Detection, Image Denosing.
+- Keywords:&nbsp;&nbsp; Object Detection, Image Denosing, Static & Dynamic Transformer.
 </div>
 </div>
 
