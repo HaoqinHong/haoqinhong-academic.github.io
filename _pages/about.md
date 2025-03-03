@@ -61,8 +61,8 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 
 <ul>
 
-	<li> <a href="https://patents.google.com/patent/CN115994221A/zh?q=(%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%BF%86%E9%98%BB%E5%99%A8%E7%9A%84%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%8F%8A%E6%96%B9%E6%B3%95)&oq=%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%BF%86%E9%98%BB%E5%99%A8%E7%9A%84%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%8F%8A%E6%96%B9%E6%B3%95">Speech Recognition System and Method Based on Lightweight Transformer Network.</a></li> 
-	<li> <a href="https://patents.google.com/patent/CN115994221A/zh?q=(%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%BF%86%E9%98%BB%E5%99%A8%E7%9A%84%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%8F%8A%E6%96%B9%E6%B3%95)&oq=%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%BF%86%E9%98%BB%E5%99%A8%E7%9A%84%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%8F%8A%E6%96%B9%E6%B3%95">Text Sentiment Detection System and Method Based on Memristor.</a></li>
+	<li> Speech Recognition System and Method Based on Lightweight Transformer Network.</li> 
+	<li> Text Sentiment Detection System and Method Based on Memristor.</li>
 
 </li>
 
