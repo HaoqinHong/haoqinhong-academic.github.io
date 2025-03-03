@@ -91,7 +91,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN & WCCI 2024 Oral</div><img src='images/ours_method_ccspnet_joint.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions.](https://ieeexplore.ieee.org/document/10651346)
+[CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions](https://ieeexplore.ieee.org/document/10651346), Proceedings of the 2024 IEEE International Joint Conference on Neural Networks.
 
 
 🚩 [**Project**](https://github.com/HaoqinHong/CCSPNet-Joint) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 📜 [**Dataset**](https://www.kaggle.com/datasets/haoqinhong/cctsdb-aug-ijcnn-2024) &nbsp; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -100,7 +100,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJI RoboMaster</div><img src='images/robot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJI RoboMaster</div><img src='images/Robot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">Real-Time Robot Object Detection and SLAM 3D Map Building and Navigation.
 CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions.
 
