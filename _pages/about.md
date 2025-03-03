@@ -22,7 +22,7 @@ Starting in September 2025, he will pursue a M.Phil degree in Artificial Intelli
 
 Haoqin Hong's research will focus on physics-inspired vision understanding and embodied intelligent world models. He is currently a Kaggle Expert, and he previously served as a paper reviewer for international conferences such as IJCAI and IJCNN. He is familiar with development tools and platforms like PyTorch, MATLAB/Simulink, ROS and Blender. He also has a good understanding of the basic architecture and cutting-edge research trends in algorithms such as Transformer, Diffusion, LoRA, NeRF, and 3DGS.
 
-- 📃 [CV(English)](https://drive.google.com/file/d/1mJL66bRKc_6MZzFId965O98CnxmAtN5K/view?usp=drive_link)     · 📃 [CV(Chinese)](https://drive.google.com/file/d/1tZMI8F3hEnk44SNqpweE21aVn0PKoWs6/view?usp=drive_link)
+- 📃 [CV(English)](https://drive.google.com/file/d/1mJL66bRKc_6MZzFId965O98CnxmAtN5K/view?usp=drive_link)  &nbsp;  · 📃 [CV(Chinese)](https://drive.google.com/file/d/1tZMI8F3hEnk44SNqpweE21aVn0PKoWs6/view?usp=drive_link)
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="58%" />
@@ -38,12 +38,12 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN & WCCI 2024 Oral, CCF-C Conference</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<div class="badge">IJCNN & WCCI 2024 Oral, CCF-C Conference</div> **Haoqin Hong**, Yue Zhou*, Xiangyu Shu, Xiaofang Hu. "CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions."  Proceedings of the 2024 IEEE International Joint Conference on Neural Networks. 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
