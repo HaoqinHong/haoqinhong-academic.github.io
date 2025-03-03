@@ -50,7 +50,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <div class="badge">IJCNN & WCCI 2024 Oral, CCF-C Conference</div> **Haoqin Hong**, Yue Zhou*, Xiangyu Shu, Xiaofang Hu. ["CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions."](https://ieeexplore.ieee.org/document/10651346)  Proceedings of the 2024 IEEE International Joint Conference on Neural Networks. 
 
 # 🎖 Honors and Awards
 
