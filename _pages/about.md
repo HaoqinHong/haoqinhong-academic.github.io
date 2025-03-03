@@ -44,6 +44,8 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 
 # 📝 Publications 
 
+## Articles
+
 <ul>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
@@ -54,6 +56,15 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
   </code> <strong>Haoqin Hong</strong>, Yue Zhou*, Xiangyu Shu, Xiaofang Hu. <a href="https://ieeexplore.ieee.org/document/10651346"> "CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions."</a>  Proceedings of the 2024 IEEE International Joint Conference on Neural Networks. </li>
 
   </ul>
+
+## Chinese Invention Patent
+
+<ul>
+
+	<li> <a href="https://patents.google.com/patent/CN115994221A/zh?q=(%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%BF%86%E9%98%BB%E5%99%A8%E7%9A%84%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%8F%8A%E6%96%B9%E6%B3%95)&oq=%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%BF%86%E9%98%BB%E5%99%A8%E7%9A%84%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%8F%8A%E6%96%B9%E6%B3%95">Speech Recognition System and Method Based on Lightweight Transformer Network.</a></li> 
+	<li> <a href="https://patents.google.com/patent/CN115994221A/zh?q=(%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%BF%86%E9%98%BB%E5%99%A8%E7%9A%84%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%8F%8A%E6%96%B9%E6%B3%95)&oq=%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%BF%86%E9%98%BB%E5%99%A8%E7%9A%84%E6%96%87%E6%9C%AC%E6%83%85%E6%84%9F%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%8F%8A%E6%96%B9%E6%B3%95">Text Sentiment Detection System and Method Based on Memristor.</a></li>
+
+</li>
 
 # 🎖 Honors and Awards
 
@@ -89,5 +100,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 </div>
 </div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research and Internships
+- *2024.03 - Present*, Graduate Research Assistant (Advisor: Prof. Jingrun Chen), Scientific Computing and Artificial Intelligence Lab, Suzhou Institute for Advanced Research, USTC.
+- *2022.03 - 2025.06*, Undergraduate Research Assistant (Advisor: Prof. Xiaofang Hu), Chongqing Key Laboratory of Brain-inspired Computing and Intelligent Control, SWU.
+- *2023.03 - 2024.07*, Leader of Innovation Training Program (Advisor: Prof. A-Li Luo), National Astronomical Observatory, Chinese Academy of Sciences.
