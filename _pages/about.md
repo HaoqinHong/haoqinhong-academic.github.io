@@ -43,14 +43,23 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-<div class="badge">IJCNN & WCCI 2024 Oral, CCF-C Conference</div> **Haoqin Hong**, Yue Zhou*, Xiangyu Shu, Xiaofang Hu. "CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions."  Proceedings of the 2024 IEEE International Joint Conference on Neural Networks. 
+<div class="badge">IJCNN & WCCI 2024 Oral</div> **Haoqin Hong**, Yue Zhou*, Xiangyu Shu, Xiaofang Hu. "CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions."  Proceedings of the 2024 IEEE International Joint Conference on Neural Networks. 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://ieeexplore.ieee.org/document/10651346) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- <div class="badge">IJCNN & WCCI 2024 Oral, CCF-C Conference</div> **Haoqin Hong**, Yue Zhou*, Xiangyu Shu, Xiaofang Hu. ["CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions."](https://ieeexplore.ieee.org/document/10651346)  Proceedings of the 2024 IEEE International Joint Conference on Neural Networks. 
+<ul>
+  <li><code class="language-plaintext highlighter-rouge" 
+      style="background-color: #001f3f; 
+             color: #ffffff; 
+             padding: 2px 4px; 
+             border-radius: 4px;">
+ IJCNN & WCCI 2024 Oral, CCF-C Conference
+  </code> **Haoqin Hong**, Yue Zhou*, Xiangyu Shu, Xiaofang Hu. ["CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions."](https://ieeexplore.ieee.org/document/10651346)  Proceedings of the 2024 IEEE International Joint Conference on Neural Networks. </li>
+
+  </ul>
 
 # 🎖 Honors and Awards
 
