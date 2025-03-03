@@ -38,18 +38,6 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN & WCCI 2024 Oral, CCF-C Conference</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-<div class="badge">IJCNN & WCCI 2024 Oral</div> **Haoqin Hong**, Yue Zhou*, Xiangyu Shu, Xiaofang Hu. "CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions."  Proceedings of the 2024 IEEE International Joint Conference on Neural Networks. 
-
-[**Project**](https://ieeexplore.ieee.org/document/10651346) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 <ul>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
@@ -87,9 +75,17 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Project Showcase
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN & WCCI 2024 Oral</div><img src='images/ours_method_ccspnet_joint.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions.](https://ieeexplore.ieee.org/document/10651346)
+
+
+[**Project**](https://ieeexplore.ieee.org/document/10651346) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
