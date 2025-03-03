@@ -101,12 +101,10 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJI RoboMaster</div><img src='images/Robot.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">Real-Time Robot Object Detection and SLAM 3D Map Building and Navigation.
-CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions.
+<div class='paper-box-text' markdown="1">Real-Time Robot Object Detection and SLAM 3D Map Building and Navigation, Head of Vision Group, Robotics Innovation Lab, SWU.
 
 
 🚩 [**Object Detection Project**](https://github.com/HaoqinHong/RoboMasterUnionGKD2023) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 📜 [**SLAM Navigation Project**](https://github.com/HaoqinHong/RoboMaster-SLAM) &nbsp; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Head of Vision Group, Robotics Innovation Lab, SWU
 - Current status of team members:  &nbsp;&nbsp; Chengyu Fang @Tsinghua, **Haoqin Hong @USTC**, Bohan Ma @ZJU, Xiangyu Shu @SCUT, Yangce Xiong @UWA, Jiesen Zhao @BHU, Xinke Zhang @XidianU et al.
 - Keywords: &nbsp;&nbsp;	Robotics Vision, SLAM Navigation.
 </div>
