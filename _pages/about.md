@@ -29,6 +29,11 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoqinhong&layout=compact&hide=html,scss,css,shell,makefile" width="35%" />
 </div>
 
+# 📖 Educations
+- *2025.09 - 2028.06 (now)*, University of Science and Technology of China (USTC), Academic Master in Intelligence Science and Technology, School of Artificial Intelligence and Data Science. 
+- *2021.09 - 2025.06*, Southwest University (SWU), Bachelor of Engineering in Computer Science and Technology, Yuan-Longping Class, Hanhong Honors College. 
+
+
 
 # 🔥 News
 - *2024.9*: &nbsp; 🎉 I have been admitted to the USTC to pursue a M.Phil in Intelligent Science and Technology.
@@ -70,12 +75,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 - 🏅 Provincial First Prize in the National Undergraduate Electronics Design Contest. 
 
 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Project Showcase
+# 💬 Project Showcases
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN & WCCI 2024 Oral</div><img src='images/ours_method_ccspnet_joint.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
