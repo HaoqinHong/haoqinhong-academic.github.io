@@ -100,7 +100,7 @@ Haoqin Hong's research will focus on physics-inspired vision understanding and e
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJI RoboMaster</div><img src='images/GKD战队2.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DJI RoboMaster</div><img src='images/robot.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">Real-Time Robot Object Detection and SLAM 3D Map Building and Navigation.
 CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions.
 
