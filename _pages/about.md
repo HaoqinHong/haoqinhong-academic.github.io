@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Haoqin Hong has completed his undergraduate studies in 2025 at the Hanhong Honors College, Yuan Longping Program at Southwest University, earning a B.Eng in Computer Science and Technology under the guidance of [Prof. Xiaofang Hu](https://scholar.google.com/citations?user=_7HJjpYAAAAJ). 
+Haoqin Hong has completed his undergraduate studies in 2025 at the Hanhong Honors College, Yuan-Longping Program at Southwest University, earning a B.Eng in Computer Science and Technology under the guidance of [Prof. Xiaofang Hu](https://scholar.google.com/citations?user=_7HJjpYAAAAJ). 
 Starting in September 2025, he will pursue a M.Phil degree in Artificial Intelligence at the School of Artificial Intelligence and Data Science, USTC, supervised by [Prof. Jingrun Chen](https://www.researchgate.net/profile/Jingrun-Chen-2) (China Distinguished Young Scholars) and  [Prof. Weinan E](https://scholar.google.com/citations?user=i2mOt14AAAAJ&hl=en) (Academician of Chinese Academy of Sciences), and he will also collaborate with Associate Researcher [Congcong Zhu](https://cczly.github.io/) on Computer Vision. 
 
 Haoqin Hong's research will focus on physics-inspired vision understanding and embodied intelligent world models. He is currently a Kaggle Expert, and he previously served as a paper reviewer for international conferences such as IJCAI and IJCNN. He is familiar with development tools and platforms like PyTorch, MATLAB/Simulink, ROS and Blender. He also has a good understanding of the basic architecture and cutting-edge research trends in algorithms such as Transformer, Diffusion, LoRA, NeRF, and 3DGS.
